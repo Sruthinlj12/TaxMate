@@ -119,14 +119,6 @@ Real-time Data Integration: Implement real-time updates by integrating with offi
 
 Specialized LLMs: Explore the use of domain-specialized Large Language Models fine-tuned specifically on Indian legal texts for even greater accuracy and nuance.
 
-🤝 Team
-Akash A (B22CS2112)
-
-Akash PR (B22CS2113)
-
-Jyothsna P Nair (B22CS2137)
-
-Sruthin LJ (B22CS2157)
 
 📄 License
 This project is intended for academic and educational purposes only. For collaboration opportunities or institutional adaptation of this system, please contact the project team members.
